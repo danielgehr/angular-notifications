@@ -1,5 +1,8 @@
 ## Angular-Notifications
 
+### v0.1.3
+Some refactoring that to make it fit for the VSMS project
+
 ### v0.1
 
 This particular component provides a service for creating notifications, and an
