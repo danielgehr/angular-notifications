@@ -3,7 +3,7 @@
     "name": "https://github.com/daseinhorn"
   },
   "name": "angular-notifications",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "notification.js",
   "ignore": [
     "**/.*",
